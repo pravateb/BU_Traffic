@@ -24,7 +24,8 @@
             android:value="@integer/google_play_services_version" />
 
         <activity android:name=".DetailActivity" />
-        <activity android:name=".ExerciseActivity"></activity>
+        <activity android:name=".ExerciseActivity" />
+        <activity android:name=".ScoreActivity"></activity>
     </application>
 
 </manifest>
